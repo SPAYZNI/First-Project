@@ -1,0 +1,8 @@
+C:\Users\nijaz\source\repos\flushed\flushed\bin\Debug\flushed.exe.config
+C:\Users\nijaz\source\repos\flushed\flushed\bin\Debug\flushed.exe
+C:\Users\nijaz\source\repos\flushed\flushed\bin\Debug\flushed.pdb
+C:\Users\nijaz\source\repos\flushed\flushed\obj\Debug\flushed.csproj.AssemblyReference.cache
+C:\Users\nijaz\source\repos\flushed\flushed\obj\Debug\flushed.csproj.SuggestedBindingRedirects.cache
+C:\Users\nijaz\source\repos\flushed\flushed\obj\Debug\flushed.csproj.CoreCompileInputs.cache
+C:\Users\nijaz\source\repos\flushed\flushed\obj\Debug\flushed.exe
+C:\Users\nijaz\source\repos\flushed\flushed\obj\Debug\flushed.pdb
